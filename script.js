@@ -228,7 +228,7 @@ $(document).ready(function() {
         data: "insecurity_rate",
         render: function(data, type, row, meta) {
           return type === "display"
-            ? '<progress value="' + data + '" max="100"></progress>' + '<div>' + data+ '%</div>'
+            ? '<div style="text-align: left;>' + <progress value="' + data + '" max="100"></progress>' + '<p>' + data+ '%</p>' + '</div>'
             : data;
         }
       },
