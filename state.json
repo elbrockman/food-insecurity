@@ -1,0 +1,461 @@
+[
+{
+"name": "Alabama",
+"lat": 32.3182314,
+"lon": -86.902298,
+"fir": 0.17,
+"people": 829220,
+"cr": 0.231,
+"children": 251800
+},
+{
+"name": "Alaska",
+"lat": 64.2008413,
+"lon": -149.4936733,
+"fir": 0.129,
+"people": 95190,
+"cr": 0.181,
+"children": 33200
+},
+{
+"name": "Arizona",
+"lat": 34.0489281,
+"lon": -111.0937311,
+"fir": 0.131,
+"people": 937300,
+"cr": 0.19,
+"children": 311390
+},
+{
+"name": "Arkansas",
+"lat": 35.20105,
+"lon": -91.8318334,
+"fir": 0.173,
+"people": 521490,
+"cr": 0.231,
+"children": 162270
+},
+{
+"name": "California",
+"lat": 36.778261,
+"lon": -119.4179324,
+"fir": 0.108,
+"people": 4291830,
+"cr": 0.152,
+"children": 1362340
+},
+{
+"name": "Colorado",
+"lat": 39.5500507,
+"lon": -105.7820674,
+"fir": 0.099,
+"people": 566490,
+"cr": 0.122,
+"children": 155120
+},
+{
+"name": "Connecticut",
+"lat": 41.6032207,
+"lon": -73.087749,
+"fir": 0.119,
+"people": 426620,
+"cr": 0.16,
+"children": 117660
+},
+{
+"name": "Delaware",
+"lat": 38.9108325,
+"lon": -75.5276699,
+"fir": 0.126,
+"people": 121850,
+"cr": 0.19,
+"children": 38680
+},
+{
+"name": "District of Columbia",
+"lat": 38.9071923,
+"lon": -77.0368707,
+"fir": 0.116,
+"people": 81400,
+"cr": 0.191,
+"children": 24280
+},
+{
+"name": "Florida",
+"lat": 27.6648274,
+"lon": -81.5157535,
+"fir": 0.13,
+"people": 2768480,
+"cr": 0.194,
+"children": 819370
+},
+{
+"name": "Georgia",
+"lat": 32.1656221,
+"lon": -82.9000751,
+"fir": 0.125,
+"people": 1318500,
+"cr": 0.162,
+"children": 405380
+},
+{
+"name": "Hawaii",
+"lat": 19.8967662,
+"lon": -155.5827818,
+"fir": 0.112,
+"people": 159040,
+"cr": 0.184,
+"children": 55710
+},
+{
+"name": "Idaho",
+"lat": 44.0682019,
+"lon": -114.7420408,
+"fir": 0.108,
+"people": 189970,
+"cr": 0.126,
+"children": 56120
+},
+{
+"name": "Illinois",
+"lat": 40.6331249,
+"lon": -89.3985283,
+"fir": 0.101,
+"people": 1283550,
+"cr": 0.127,
+"children": 363900
+},
+{
+"name": "Indiana",
+"lat": 40.2671941,
+"lon": -86.1349019,
+"fir": 0.132,
+"people": 883260,
+"cr": 0.175,
+"children": 274080
+},
+{
+"name": "Iowa",
+"lat": 41.8780025,
+"lon": -93.097702,
+"fir": 0.097,
+"people": 305100,
+"cr": 0.139,
+"children": 102190
+},
+{
+"name": "Kansas",
+"lat": 39.011902,
+"lon": -98.4842465,
+"fir": 0.127,
+"people": 368770,
+"cr": 0.184,
+"children": 129780
+},
+{
+"name": "Kentucky",
+"lat": 37.8393332,
+"lon": -84.2700179,
+"fir": 0.148,
+"people": 662660,
+"cr": 0.189,
+"children": 190600
+},
+{
+"name": "Louisiana",
+"lat": 30.9842977,
+"lon": -91.9623327,
+"fir": 0.161,
+"people": 751920,
+"cr": 0.246,
+"children": 269650
+},
+{
+"name": "Maine",
+"lat": 45.253783,
+"lon": -69.4454689,
+"fir": 0.129,
+"people": 173080,
+"cr": 0.191,
+"children": 47460
+},
+{
+"name": "Maryland",
+"lat": 39.0457549,
+"lon": -76.6412712,
+"fir": 0.11,
+"people": 667110,
+"cr": 0.161,
+"children": 216070
+},
+{
+"name": "Massachusetts",
+"lat": 42.4072107,
+"lon": -71.3824374,
+"fir": 0.089,
+"people": 617380,
+"cr": 0.101,
+"children": 138760
+},
+{
+"name": "Michigan",
+"lat": 44.3148443,
+"lon": -85.6023643,
+"fir": 0.136,
+"people": 1359650,
+"cr": 0.147,
+"children": 318960
+},
+{
+"name": "Minnesota",
+"lat": 46.729553,
+"lon": -94.6858998,
+"fir": 0.082,
+"people": 461200,
+"cr": 0.124,
+"children": 161880
+},
+{
+"name": "Mississippi",
+"lat": 32.3546679,
+"lon": -89.3985283,
+"fir": 0.187,
+"people": 559350,
+"cr": 0.23,
+"children": 162150
+},
+{
+"name": "Missouri",
+"lat": 37.9642529,
+"lon": -91.8318334,
+"fir": 0.133,
+"people": 813840,
+"cr": 0.152,
+"children": 209870
+},
+{
+"name": "Montana",
+"lat": 46.8796822,
+"lon": -110.3625658,
+"fir": 0.103,
+"people": 109150,
+"cr": 0.159,
+"children": 36560
+},
+{
+"name": "Nebraska",
+"lat": 41.4925374,
+"lon": -99.9018131,
+"fir": 0.123,
+"people": 237440,
+"cr": 0.167,
+"children": 79310
+},
+{
+"name": "Nevada",
+"lat": 38.8026097,
+"lon": -116.419389,
+"fir": 0.128,
+"people": 388420,
+"cr": 0.195,
+"children": 134350
+},
+{
+"name": "New Hampshire",
+"lat": 43.1938516,
+"lon": -71.5723953,
+"fir": 0.093,
+"people": 125590,
+"cr": 0.133,
+"children": 34280
+},
+{
+"name": "New Jersey",
+"lat": 40.0583238,
+"lon": -74.4056612,
+"fir": 0.087,
+"people": 774860,
+"cr": 0.113,
+"children": 219760
+},
+{
+"name": "New Mexico",
+"lat": 34.5199402,
+"lon": -105.8700901,
+"fir": 0.151,
+"people": 315990,
+"cr": 0.238,
+"children": 114180
+},
+{
+"name": "New York",
+"lat": 40.7127753,
+"lon": -74.0059728,
+"fir": 0.111,
+"people": 2166060,
+"cr": 0.169,
+"children": 685500
+},
+{
+"name": "North Carolina",
+"lat": 35.7595731,
+"lon": -79.0192997,
+"fir": 0.14,
+"people": 1456200,
+"cr": 0.193,
+"children": 443040
+},
+{
+"name": "North Dakota",
+"lat": 47.5514926,
+"lon": -101.0020119,
+"fir": 0.068,
+"people": 51610,
+"cr": 0.096,
+"children": 16700
+},
+{
+"name": "Ohio",
+"lat": 40.4172871,
+"lon": -82.907123,
+"fir": 0.139,
+"people": 1624180,
+"cr": 0.189,
+"children": 489160
+},
+{
+"name": "Oklahoma",
+"lat": 35.0077519,
+"lon": -97.092877,
+"fir": 0.151,
+"people": 594140,
+"cr": 0.218,
+"children": 208110
+},
+{
+"name": "Oregon",
+"lat": 43.8041334,
+"lon": -120.5542012,
+"fir": 0.119,
+"people": 498730,
+"cr": 0.16,
+"children": 139220
+},
+{
+"name": "Pennsylvania",
+"lat": 41.2033216,
+"lon": -77.1945247,
+"fir": 0.109,
+"people": 1401920,
+"cr": 0.151,
+"children": 399270
+},
+{
+"name": "Rhode Island",
+"lat": 41.5800945,
+"lon": -71.4774291,
+"fir": 0.114,
+"people": 120970,
+"cr": 0.178,
+"children": 36270
+},
+{
+"name": "South Carolina",
+"lat": 33.836081,
+"lon": -81.1637245,
+"fir": 0.118,
+"people": 600440,
+"cr": 0.162,
+"children": 178710
+},
+{
+"name": "South Dakota",
+"lat": 43.9695148,
+"lon": -99.9018131,
+"fir": 0.108,
+"people": 95080,
+"cr": 0.165,
+"children": 35330
+},
+{
+"name": "Tennessee",
+"lat": 35.5174913,
+"lon": -86.5804473,
+"fir": 0.14,
+"people": 950290,
+"cr": 0.177,
+"children": 267110
+},
+{
+"name": "Texas",
+"lat": 31.9685988,
+"lon": -99.9018131,
+"fir": 0.15,
+"people": 4295240,
+"cr": 0.216,
+"children": 1598940
+},
+{
+"name": "Utah",
+"lat": 39.3209801,
+"lon": -111.0937311,
+"fir": 0.11,
+"people": 347370,
+"cr": 0.121,
+"children": 113190
+},
+{
+"name": "Vermont",
+"lat": 44.5588028,
+"lon": -72.5778415,
+"fir": 0.113,
+"people": 70580,
+"cr": 0.152,
+"children": 17550
+},
+{
+"name": "Virginia",
+"lat": 37.4315734,
+"lon": -78.6568942,
+"fir": 0.099,
+"people": 842870,
+"cr": 0.125,
+"children": 233530
+},
+{
+"name": "Washington",
+"lat": 47.7510741,
+"lon": -120.7401385,
+"fir": 0.107,
+"people": 804080,
+"cr": 0.147,
+"children": 244480
+},
+{
+"name": "West Virginia",
+"lat": 38.5976262,
+"lon": -80.4549026,
+"fir": 0.139,
+"people": 250600,
+"cr": 0.203,
+"children": 73770
+},
+{
+"name": "Wisconsin",
+"lat": 43.7844397,
+"lon": -88.7878678,
+"fir": 0.089,
+"people": 515930,
+"cr": 0.141,
+"children": 179180
+},
+{
+"name": "Wyoming",
+"lat": 43.0759678,
+"lon": -107.2902839,
+"fir": 0.122,
+"people": 70640,
+"cr": 0.159,
+"children": 21160
+}
+]
