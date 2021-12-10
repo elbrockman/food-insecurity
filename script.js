@@ -5,7 +5,7 @@ const H = Highcharts,
 let chart;
 
 // Add series with state capital bubbles
-Highcharts.getJSON("/state.json", function(json) {
+Highcharts.getJSON("state.json", function(json) {
   const data = json.map(p => {
     p.z = p.children;
     return p;
