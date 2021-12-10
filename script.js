@@ -217,17 +217,17 @@ $(document).ready(function() {
   $("#dt-table").DataTable({
     ajax: "food_insecurity.txt",
     columnDefs: [{
-       "targets": 3, 
-       "className": "text-right",
-       "width": "4%"
+       targets: 3, 
+       className: "text-right",
+       width: "4%"
     },
     {
-       "targets": 4,
-       "className": "text-right",
+       targets: 4,
+       className: "text-right",
     },
        {
-       "targets": 5,
-       "className": "text-right",
+       targets: 5,
+       className: "text-right",
     }             
  ],
     columns: [
