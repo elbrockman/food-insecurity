@@ -1,4 +1,4 @@
-// first chart starts
+// first chart starts 
 const H = Highcharts,
   map = H.maps["countries/us/us-all"];
 
